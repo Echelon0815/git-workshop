@@ -3,3 +3,6 @@
 
 git 管理了動作
 
+git diff 會 把staging area裏頭的檔案 和 working directory 裡的檔案做比較
+
+test unstaged / inside working directory
